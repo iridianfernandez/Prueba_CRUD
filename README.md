@@ -1,5 +1,5 @@
 # Prueba_CRUD
-"""
+
 Estoy utilizando:
 	-Visual Studio Code
 	-MySQL workbench
@@ -22,4 +22,4 @@ En PyQt5CRUDmysql tengo 4 carpetas:
 
 
 
-"""
+
