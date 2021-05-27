@@ -1,5 +1,9 @@
 # Prueba_CRUD
 
+en tabla_colores es donde tengo prácticamente todo el código para no utilizar la importación de clases, 
+lo único que falta es ligar la tabla de crear con el botón
+
+
 Estoy utilizando:
 	-Visual Studio Code
 	-MySQL workbench
